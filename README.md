@@ -1,4 +1,4 @@
-# Name:manimaran V
+# Name:Manimaran V
 # Reg.no:212224220060
 # EX-01-Datatypes-Operators
 ## AIM:
