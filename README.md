@@ -1,4 +1,5 @@
-
+# Name:manimaran V
+# Reg.no:212224220060
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
